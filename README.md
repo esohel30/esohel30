@@ -17,26 +17,10 @@ Fascinated by the potential of machine learning, I've worked on projects involvi
 ### Quantitative Finance
 Combining mathematical skills with programming, I apply quantitative methods to financial data for analysis and decision-making.
 
-## Projects
-
-Explore some of the key projects in this repository:
-
-- **[Project Name]**
-  Brief description of the project and its goals.
-
-- **[Project Name]**
-  Brief description of the project and its goals.
-
-- **[Project Name]**
-  Brief description of the project and its goals.
-
-Feel free to explore the individual project folders for more details, code, and documentation.
-
 ## How to Reach Me
 
 I'm open to collaboration and eager to explore new opportunities. If you have any questions, suggestions, or opportunities, feel free to reach out:
 
-- Email: [your.email@example.com]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: [eric.sohel@stonybrook.edu]
 
 Thank you for visiting my GitHub! I look forward to connecting with you and exploring exciting projects together. 🚀
