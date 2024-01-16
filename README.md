@@ -1,7 +1,7 @@
 # Welcome to My GitHub Repository!
 # Hi! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dchen278&label=Profile%20views&color=0e75b6&style=flat" alt="dchen278" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=esohel30&label=Profile%20views&color=0e75b6&style=flat" alt="dchen278" /> </p>
 
 - 🎓 I am a current first-year at Stony Brook and plan and I am double majoring in Computer Science and Applied Mathematics. 
 - 📫 How to reach me: **eric.sohel@stonybrook.edu**
