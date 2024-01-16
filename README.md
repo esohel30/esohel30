@@ -13,6 +13,16 @@
 - Computational complexity theory 
 - Algorithms
 
+### 🖥️ Companies I'm interesed in: 
+- Jane Street 🧠
+- Nasa 🚀
+- Bloomberg 📈
+- Citadel 💵
+- Google 👊
+- Open AI 🤖
+- Sig 🃏
+- 
+
 <h3 align="left">Languages and Tools I use:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" width="58.8" alt="python logo"  />
