@@ -21,7 +21,6 @@
 - Google 👊
 - Open AI 🤖
 - Sig 🃏
-- 
 
 <h3 align="left">Languages and Tools I use:</h3>
 <div align="left">
