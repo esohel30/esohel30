@@ -6,7 +6,7 @@
 - 📫 How to reach me: **eric.sohel@stonybrook.edu**
 
 ### :book: About Me:
-- I love problem solving
+- I love problem solving in mathematics and Cs. 
 - I am a part of the competitive programming team and math club at Stony Brook. 
 
 ### 🖥️ I’m currently learning about:
