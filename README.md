@@ -13,7 +13,7 @@
 - Computational complexity theory 
 - Algorithms
 
-### 🖥️ Companies I'm interesed in: 
+### 🏢 Companies I'm interesed in: 
 - Jane Street 🧠
 - Nasa 🚀
 - Bloomberg 📈
