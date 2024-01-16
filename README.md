@@ -21,6 +21,7 @@
 - Google 👊
 - Open AI 🤖
 - Sig 🃏
+- Art of Problem Solving 📝
 
 <h3 align="left">Languages and Tools I use:</h3>
 <div align="left">
