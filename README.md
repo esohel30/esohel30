@@ -7,8 +7,8 @@
 - 📫 How to reach me: **eric.sohel@stonybrook.edu**
 
 ### :book: About Me:
-- Fullstack software developer
-- Was Web Editor at The Stuyvesant Spectator and the District Webmaster at Key Club International
+- I love problem solving
+- I am a part of the competitive programming team and math club at Stony Brook. 
 
 ### 🖥️ I’m currently learning about:
 - Computational complexity theory 
