@@ -35,6 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" width="58.8" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" width="58.8" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" width="58.8" alt="git logo"  />
+  <img src="  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="42" width="58.8" alt="git logo"  />
+
 </div> </p>
 
 </div>
