@@ -15,7 +15,7 @@
 
 ### 🏢 Companies I'm interesed in: 
 - Jane Street 🧠
-- Nasa 🚀
+- Meta 🚀
 - Bloomberg 📈
 - Citadel 💵
 - Google 👊
